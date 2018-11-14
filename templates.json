@@ -3153,5 +3153,15 @@
     "image": "bioconductor/release_metabolomics2",
     "name": "Bioconductor: Metabolomics Packages",
     "note": "none"
+  },
+  {
+    "type": 1,
+    "title": "BioContainer: Base",
+    "description": "An open-source and community-driven framework for software standardization.",
+    "categories": ["BioContainer Flavours"],
+    "platform": "linux",
+    "logo": "https://raw.githubusercontent.com/LaBiOS/bioportainer/master/images/logo_biocontainer.png",
+    "image": "biocontainers/biocontainers",
+    "volumes": ["/data", "/config"]
   }
 ]
